@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-marvel/static/css/main.1dddd09f.chunk.css",
+    "main.js": "/react-marvel/static/js/main.b82a13bc.chunk.js",
+    "main.js.map": "/react-marvel/static/js/main.b82a13bc.chunk.js.map",
+    "runtime-main.js": "/react-marvel/static/js/runtime-main.dbb9a67a.js",
+    "runtime-main.js.map": "/react-marvel/static/js/runtime-main.dbb9a67a.js.map",
+    "static/css/2.a95be28f.chunk.css": "/react-marvel/static/css/2.a95be28f.chunk.css",
+    "static/js/2.76092317.chunk.js": "/react-marvel/static/js/2.76092317.chunk.js",
+    "static/js/2.76092317.chunk.js.map": "/react-marvel/static/js/2.76092317.chunk.js.map",
+    "index.html": "/react-marvel/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/react-marvel/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.1dddd09f.chunk.css.map": "/react-marvel/static/css/main.1dddd09f.chunk.css.map",
+    "static/js/2.76092317.chunk.js.LICENSE.txt": "/react-marvel/static/js/2.76092317.chunk.js.LICENSE.txt",
+    "static/media/logo.ce377fd3.svg": "/react-marvel/static/media/logo.ce377fd3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbb9a67a.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.76092317.chunk.js",
+    "static/css/main.1dddd09f.chunk.css",
+    "static/js/main.b82a13bc.chunk.js"
+  ]
+}
